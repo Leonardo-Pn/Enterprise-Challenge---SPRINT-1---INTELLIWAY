@@ -1,0 +1,14 @@
+{
+  "current_version": "0.1.0-baseline",
+  "models": [
+    {
+      "model_version": "0.1.0-baseline",
+      "type": "symbolic_rules",
+      "status": "prototype",
+      "dataset_hash": null,
+      "metrics": null,
+      "thresholds": {"heuristic_only": true},
+      "notes": "Baseline didático. Scores não são probabilidades calibradas. Sem fine-tuning ou modelo profundo."
+    }
+  ]
+}
